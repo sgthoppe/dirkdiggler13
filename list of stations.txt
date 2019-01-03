@@ -1,0 +1,67 @@
+#LRT-2
+0 - Santolan(LRT-2)
+1 - Katipunan
+2 - Anonas
+3 - Cubao (junction station)
+4 - Betty-Go Belmonte
+5 - Gilmore
+6 - J.Ruiz
+7 - V.Mapa
+8 - Pureza
+9 - Legarda
+10 - Recto/D.Jose (junction station)
+#MRT-3
+11 - North Ave. (N)
+12 - North Ave. (S)
+13 - Quezon (N)
+14 - Quezon (S)
+15 - Kamuning (N)
+16 - Kamuning (S)
+17 - Santolan (N)
+18 - Santolan (S)
+19 - Ortigas (N)
+20 - Ortigas (S)
+21 - Shaw
+22 - Boni
+23 - Guadalupe (N)
+24 - Guadalupe (S)
+25 - Buendia
+26 - Ayala
+27 - Magallanes (N)
+28 - Magallanes (S)
+29 - Taft/EDSA (junction station)
+#LRT-1
+30 - Roosevelt 
+31 - Balintawak
+32 - Monumento (N)
+33 - Monumento (S)
+34 - 5th Avenue (N)
+35 - 5th Avenue (S)
+36 - R.Papa (N)
+37 - R.Papa (S)
+38 - Abad Santos (N)
+39 - Abad Santos (S)
+40 - Blumentritt (N)
+41 - Blumentritt (S)
+42 - Tayuman (N)
+43 - Tayuman (S)
+44 - Bambang (N)
+45 - Bambang (S)
+46 - Carriedo (N)
+47 - Carriedo (S)
+48 - Central (N)
+49 - Central (S)
+50 - UN Ave. (N)
+51 - UN Ave. (S)
+52 - Pedro Gil (N)
+53 - Pedro Gil (S)
+54 - Quirino Ave. (N)
+55 - Quirino Ave. (S)
+56 - Vito Cruz (N)
+57 - Vito Cruz (S)
+58 - Gil Puyat (N)
+59 - Gil Puyat (S)
+60 - Libertad (N)
+61 - Libertad (S)
+62 - Baklaran (N)
+63 - Baklaran (S)
