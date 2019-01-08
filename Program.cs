@@ -264,11 +264,13 @@ namespace MetroGearSolid
                 {
                     Console.ForegroundColor = ConsoleColor.Red;
                     Console.WriteLine("Solid Snake Wins");
+                    break;
                 }
                 else if (current == eli)
                 {
                     Console.ForegroundColor = ConsoleColor.Red;
                     Console.WriteLine("Liquid Wins");
+                    break;
                 }
                 if (terminate == true)
                 {
