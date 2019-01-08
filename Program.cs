@@ -56,7 +56,6 @@ namespace MetroGearSolid
             int eli = 11;
             int current = 1;
             int i = 0;
-            bool terminate = false;
 
             Console.WriteLine("    T  A  K  T  I  K  A  L      C  O  M  M  U  T  I  N  G      A  C  T  I  O  N        ");
             Console.WriteLine(" _    _  ___ _____  ____    __    ___   ___    _    ____    __    __   _   _  ___  ");
