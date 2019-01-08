@@ -167,6 +167,7 @@ namespace MetroGearSolid
                 {
                     Console.ForegroundColor = ConsoleColor.Red;
                     Console.WriteLine("You just ended up in a dead-end station, you've nowhere to go now. GAME OVER");
+                    break;
                 }
                 Console.WriteLine("You are currently at station " + current);
                 int temp;
