@@ -165,8 +165,8 @@ namespace MetroGearSolid
                 Console.WriteLine("============================================================================================================");
                 if (current == 11 || current == 63)
                 {
-                    terminate = true;
-                    break;
+                    Console.ForegroundColor = ConsoleColor.Red;
+                    Console.WriteLine("You just ended up in a dead-end station, you've nowhere to go now. GAME OVER");
                 }
                 Console.WriteLine("You are currently at station " + current);
                 int temp;
@@ -271,11 +271,6 @@ namespace MetroGearSolid
                     Console.ForegroundColor = ConsoleColor.Red;
                     Console.WriteLine("Liquid Wins");
                     break;
-                }
-                if (terminate == true)
-                {
-                    Console.ForegroundColor = ConsoleColor.Red;
-                    Console.WriteLine("You just ended up in a dead-end station, you've nowhere to go now. GAME OVER");
                 }
             }
         }
